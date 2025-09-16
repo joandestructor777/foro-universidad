@@ -1,0 +1,37 @@
+## 🔑 Autenticación
+- [ ] Modelo de usuarios en PostgreSQL
+- [ ] Registro y login con JWT + bcrypt
+- [ ] Formularios de login/registro en React
+- [ ] Middleware de autenticación y rutas protegidas
+
+## 📝 Foro
+- [ ] Modelos: subforos, posts y comentarios
+- [ ] Endpoints CRUD para posts y comentarios
+- [ ] Listar publicaciones y detalle con comentarios
+- [ ] Formularios para crear post y comentario
+
+## 👍 Votos
+- [ ] Modelo de votos (upvote/downvote)
+- [ ] Endpoint en backend
+- [ ] Botones de voto en frontend
+
+## 💬 Chat
+- [ ] Configurar Socket.IO en backend y frontend
+- [ ] Interfaz de chat en React
+- [ ] Guardar mensajes en DB y mostrar historial
+
+## 🎨 Interfaz y UX
+- [ ] Navbar con navegación
+- [ ] Páginas: inicio, perfil, foro, chat
+- [ ] Estilos con Bootstrap + responsive design
+
+## 🔒 Seguridad y extras
+- [ ] Validación de formularios
+- [ ] Encriptar contraseñas y proteger rutas
+- [ ] Configurar CORS y dotenv
+
+## 🚀 Deploy
+- [ ] Deploy backend
+- [ ] Deploy base de datos en la nube
+- [ ] Deploy frontend
+- [ ] Conectar todo en producción
