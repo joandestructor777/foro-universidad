@@ -1,5 +1,5 @@
 --
--- PostgreSQL database dumpe
+-- PostgreSQL database dump
 --
 
 \restrict Tuv3lWMZR2rSlXWcl8zlVCZLEKjK99tjdYbKa9Fb2qx5TwVRLG2fAJsetC3RI9Z
