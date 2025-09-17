@@ -1,0 +1,17 @@
+POST http://localhost:2354/register
+Content-Type: application/json
+
+{
+    "nombre": "Joan Gonzalez",
+    "email":"joancamilojcvs@gmail.com",
+    "password": "welcome12345"
+}
+
+#####
+POST http://localhost:2354/login
+Content-Type: application/json
+
+{
+    "nombre":"Joan Gonzalez",
+    "password":"welcome12345"
+}
