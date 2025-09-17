@@ -1,0 +1,36 @@
+:root {
+  /* Colores principales (oscuros) */
+  --gamer-purple-dark: #2a003f;   /* morado base profundo */
+  --gamer-purple: #5a189a;        /* morado gamer */
+  --gamer-violet: #7b2cbf;        /* violeta oscuro */
+  --gamer-indigo: #3c096c;        /* índigo profundo */
+
+  /* Acentos oscuros */
+  --gamer-cyan: #0a9396;          /* cian oscuro */
+  --gamer-pink: #9d4edd;          /* rosa/morado apagado */
+  --gamer-red: #d00000;           /* rojo sangre oscuro */
+  --gamer-green: #38b000;         /* verde neón oscuro */
+
+  /* Fondos gamer oscuros */
+  --bg-deep: #0f0f1a;             /* fondo principal */
+  --bg-panel: #1a1a2e;            /* panel */
+  --bg-dark: #10002b;             /* contraste extra */
+
+  /* Gradientes elegantes */
+  --grad-purple-cyan: linear-gradient(135deg, #2a003f, #0a9396);
+  --grad-purple-pink: linear-gradient(135deg, #3c096c, #9d4edd);
+  --grad-violet-indigo: linear-gradient(135deg, #5a189a, #10002b);
+  --grad-dark-sheen: linear-gradient(180deg, rgba(255,255,255,0.03), rgba(0,0,0,0.12));
+
+  /* Texto */
+  --text-light: #e0def4; 
+  --text-muted: #a8a5c7;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Handlee', cursive;
+  letter-spacing: 1.2px;
+}
